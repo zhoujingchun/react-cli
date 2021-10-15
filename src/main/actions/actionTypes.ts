@@ -1,0 +1,7 @@
+const actionTypes = {
+    SHOWDIALOG_COMMON: 'SHOWDIALOG_COMMON',
+    HIDEDIALOG_COMMON: 'HIDEDIALOG_COMMON',
+    SETFOOTER_COMMON: 'SETFOOTER_COMMON',
+}
+
+export default actionTypes
